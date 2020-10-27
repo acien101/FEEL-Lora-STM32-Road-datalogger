@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=BateríaRecargable.SchDoc
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Bateria|SchDesignator=Bateria|FileName=BateríaRecargable.SchDoc|SymbolType=Normal|RawFileName=BateríaRecargable.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Connections|SchDesignator=Connections|FileName=connections.SchDoc|SymbolType=Normal|RawFileName=connections.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=JTAG|SchDesignator=JTAG|FileName=InterfazDeProgramaacion.SchDoc|SymbolType=Normal|RawFileName=InterfazDeProgramaacion.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Sensors|SchDesignator=Sensors|FileName=Sensores.SchDoc|SymbolType=Normal|RawFileName=Sensores.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_STM32_breakout|SchDesignator=U_STM32_breakout|FileName=stm32.SchDoc|SymbolType=Normal|RawFileName=stm32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
