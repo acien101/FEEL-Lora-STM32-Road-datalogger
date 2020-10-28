@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QVEXFGVD
 
 [Document3]
-DocumentPath=InterfazDeProgramaacion.SchDoc
+DocumentPath=JTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WVJMDKET
 
 [Document4]
-DocumentPath=Sensores.SchDoc
+DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IXNPCEXS
 
 [Document5]
-DocumentPath=stm32.SchDoc
+DocumentPath=STM32WLE5CC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BUKTYILV
 
 [Document6]
-DocumentPath=BateríaRecargable.SchDoc
+DocumentPath=ADP526X.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KTINBGPP
 
 [Document9]
-DocumentPath=Sensores.Harness
+DocumentPath=Sensors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=BateríaRecargable.Harness
+DocumentPath=ADP526X.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=stm32.Harness
+DocumentPath=STM32WLE5CC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=InterfazDeProgramaacion.Harness
+DocumentPath=JTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
