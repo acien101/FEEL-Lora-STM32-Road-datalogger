@@ -1,0 +1,88 @@
+Added Component: Designator=C7(0402C-TBD)
+Added Component: Designator=C8(0402C-GENERIC)
+Add component (AddParameter): Name = "Reel"; Value = "C49"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0402C-TBD)
+Added Component: Designator=C10(0402C-GENERIC)
+Add component (AddParameter): Name = "Reel"; Value = "C49"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0402C-GENERIC)
+Add component (AddParameter): Name = "Reel"; Value = "C47"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0402C-GENERIC)
+Add component (AddParameter): Name = "Reel"; Value = "C49"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0402C-GENERIC)
+Add component (AddParameter): Name = "Reel"; Value = "C16"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0402C-GENERIC)
+Add component (AddParameter): Name = "Reel"; Value = "C48"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDC2016X18N)
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/pbs/datasheet/74479776222.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "0806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://media.digikey.com/PDF/Data%20Sheets/Wurth%20Electronics%20PDFs/Passive_Components_Products_Catalog.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2019-01-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "74479776222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "L0806-2µ2-1.2A-110mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "80000001820"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019-01-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2954-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "710-74479776222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2µH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDC2016X18N)
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/pbs/datasheet/74479776222.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "0806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://media.digikey.com/PDF/Data%20Sheets/Wurth%20Electronics%20PDFs/Passive_Components_Products_Catalog.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2019-01-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "74479776222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "L0806-2µ2-1.2A-110mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "80000001820"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019-01-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2954-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "710-74479776222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2µH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=PA0 Pin=C8-2
+Added Pin To Net: NetName=3.3VDD Pin=C9-1
+Added Pin To Net: NetName=PA0 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=PA0 Pin=C10-2
+Added Pin To Net: NetName=VSYS Pin=C11-1
+Added Pin To Net: NetName=PA0 Pin=C11-2
+Added Pin To Net: NetName=VDD Pin=C12-1
+Added Pin To Net: NetName=PA0 Pin=C12-2
+Added Pin To Net: NetName=VBUS Pin=C13-1
+Added Pin To Net: NetName=PA0 Pin=C13-2
+Added Pin To Net: NetName=BSNS Pin=C14-1
+Added Pin To Net: NetName=PA0 Pin=C14-2
+Added Pin To Net: NetName=SW1 Pin=L1-1
+Added Pin To Net: NetName=1V8 Pin=L1-2
+Added Pin To Net: NetName=SW2A Pin=L2-1
+Added Pin To Net: NetName=SW2B Pin=L2-2
+Added Member To Class: ClassName=Bateria Member=Component C7 22uF
+Added Member To Class: ClassName=Bateria Member=Component C8 1uF
+Added Member To Class: ClassName=Bateria Member=Component C9 2nF
+Added Member To Class: ClassName=Bateria Member=Component C10 1uF
+Added Member To Class: ClassName=Bateria Member=Component C11 10uF
+Added Member To Class: ClassName=Bateria Member=Component C12 1uF
+Added Member To Class: ClassName=Bateria Member=Component C13 2u2
+Added Member To Class: ClassName=Bateria Member=Component C14 4u7
+Added Member To Class: ClassName=Bateria Member=Component L1 2.2µH
+Added Member To Class: ClassName=Bateria Member=Component L2 2.2µH
