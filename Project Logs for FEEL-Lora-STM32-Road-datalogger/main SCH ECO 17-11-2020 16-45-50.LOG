@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C7 Old Footprint=0402C-GENERIC New Footprint=0402C-TBD
+Change Component Footprint: Designator=C9 Old Footprint=0402C-GENERIC New Footprint=0402C-TBD
+Change Component Footprint: Designator=L1 Old Footprint=INDC2016X100N New Footprint=INDC2016X18N
+Change Component Footprint: Designator=L2 Old Footprint=INDC2016X100N New Footprint=INDC2016X18N
+Change Component Comment: Designator=C8 Old Comment=10uF New Comment=1uF
+Change Component Comment: Designator=C10 Old Comment=10uF New Comment=1uF
+Change Component Comment: Designator=C9 Old Comment=10uF New Comment=2nF
+Change Component Comment: Designator=C14 Old Comment=10uF New Comment=4u7
+Change Component Comment: Designator=C7 Old Comment=10uF New Comment=22uF
+Change Component Comment: Designator=L1 Old Comment=LQM2MPN4R7NG0L New Comment=2.2µH
+Change Component Comment: Designator=L2 Old Comment=LQM2MPN4R7NG0L New Comment=2.2µH
