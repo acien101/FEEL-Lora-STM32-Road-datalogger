@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C13 Old Footprint=0402C-GENERIC New Footprint=0603C-2U2
+Change Component Footprint: Designator=C10 Old Footprint=0402C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C11 Old Footprint=0402C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C12 Old Footprint=0402C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C14 Old Footprint=0402C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C7 Old Footprint=0402C-TBD New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C9 Old Footprint=0402C-TBD New Footprint=0603C-GENERIC
