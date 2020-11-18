@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VSYS Pin=C8-1
+Added Pin To Net: NetName=VSYS Pin=C10-1
+Added Pin To Net: NetName=VSYS Pin=R1-1
+Added Pin To Net: NetName=VSYS Pin=R7-1
+Added Pin To Net: NetName=VSYS Pin=U4-C1
+Added Pin To Net: NetName=VSYS Pin=U4-F2
+Change Net Name : Old Net Name=VSYS New Net Name=VIN1
+Added Room: Name=Connections
+Added Room: Name=Sensors
+Added Room: Name=U_STM32_breakout
