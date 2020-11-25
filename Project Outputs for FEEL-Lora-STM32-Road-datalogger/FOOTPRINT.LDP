@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\Paloma\Desktop\Nueva carpeta\FOOTPRINT.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=footprint-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=footprint-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Int1 (GND)_Blind_Vias|DrillFile=footprint-roundholes.tx1|DrillLayers=gtl,gp1
+LayersSetName=Top_Int2 (PWR)_Blind_Vias|DrillFile=footprint-roundholes.tx2|DrillLayers=gtl,gp1,gp2
