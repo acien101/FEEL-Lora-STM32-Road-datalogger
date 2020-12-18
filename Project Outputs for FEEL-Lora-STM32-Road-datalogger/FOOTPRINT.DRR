@@ -1,41 +1,22 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FOOTPRINT.PcbDoc   25/11/2020  23:59:54
+NCDrill File Report For: FOOTPRINT.PcbDoc   14/12/2020  10:56:33
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : FOOTPRINT-RoundHoles.TXT
-ASCII SlotHoles File : FOOTPRINT-SlotHoles.TXT
+ASCII Plated RoundHoles File : FOOTPRINT-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : FOOTPRINT-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : FOOTPRINT-SlotHoles-Plated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      4mil (0.1mm)                                              Round             11        PTH        0.00inch (0.00mm)
-T2      8mil (0.2mm)                                              Round             80        PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             355       PTH        0.00inch (0.00mm)
+T2      9mil (0.22mm)                                             Round             4         PTH        0.00inch (0.00mm)
 T3      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
 T4      28mil (0.711mm)                                           Round             7         PTH        0.00inch (0.00mm)
-T5      30mil (0.762mm)                                           Round             2         PTH        0.00inch (0.00mm)
-T6      83mil (2.1mm)                                             Round             3         PTH        0.00inch (0.00mm)
-T7      33mil (0.85mm)                                            Round             4         NPTH       0.00inch (0.00mm)
-T8      40mil (1.02mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+T5      83mil (2.1mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T6      33mil (0.85mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+T7      40mil (1.02mm)                                            Round             2         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              111
-Layer Pair : Top Layer to Int1 (GND)
-ASCII RoundHoles File : FOOTPRINT-RoundHoles.TX1
-
-Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
-----------------------------------------------------------------------------------------------------------------------------------
-T1      4mil (0.1mm)                                              Round             2         PTH        0.00inch (0.00mm)
-T2      8mil (0.2mm)                                              Round             37        PTH        0.00inch (0.00mm)
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              39
-Layer Pair : Top Layer to Int2 (PWR)
-ASCII RoundHoles File : FOOTPRINT-RoundHoles.TX2
-
-Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
-----------------------------------------------------------------------------------------------------------------------------------
-T2      8mil (0.2mm)                                              Round             10        PTH        0.00inch (0.00mm)
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              10
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              160
+Totals                                                                              377
 
 Total Processing Time (hh:mm:ss) : 00:00:00

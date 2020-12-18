@@ -1,37 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [FEEL-Lora-STM32-Road-datalogger.PrjPcb]
-   Generated File[FOOTPRINT.GTO]
-   Generated File[FOOTPRINT.GTP]
-   Generated File[FOOTPRINT.GTS]
-   Generated File[FOOTPRINT.GTL]
-   Generated File[FOOTPRINT.GP1]
-   Generated File[FOOTPRINT.GP2]
-   Generated File[FOOTPRINT.GBL]
-   Generated File[FOOTPRINT.GBS]
-   Generated File[FOOTPRINT.GBP]
-   Generated File[FOOTPRINT.GBO]
-   Generated File[FOOTPRINT.GM1]
-   Generated File[FOOTPRINT.GM2]
-   Generated File[FOOTPRINT.GM3]
-   Generated File[FOOTPRINT.GM5]
-   Generated File[FOOTPRINT.GM7]
-   Generated File[FOOTPRINT.GM13]
-   Generated File[FOOTPRINT.GM15]
-   Generated File[FOOTPRINT.GM16]
-   Generated File[FOOTPRINT.GM20]
-   Generated File[FOOTPRINT.GM21]
-   Generated File[FOOTPRINT.GM23]
-   Generated File[FOOTPRINT.GM24]
-   Generated File[FOOTPRINT.GKO]
-   Generated File[FOOTPRINT.GPT]
-   Generated File[FOOTPRINT.GPB]
-   Generated File[FOOTPRINT.RUL]
-   Generated File[FOOTPRINT.EXTREP]
-   Generated File[FOOTPRINT.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FEEL-Lora-STM32-Road-datalogger.PrjPcb]
+   Generated File[FOOTPRINT-RoundHoles-Plated.TXT]
+   Generated File[FOOTPRINT-RoundHoles-NonPlated.TXT]
+   Generated File[FOOTPRINT-SlotHoles-Plated.TXT]
+   Generated File[FOOTPRINT.LDP]
+   Generated File[FOOTPRINT.DRR]
 
 
-Files Generated   : 28
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 0:06:16 On 26/11/2020
+Finished Output Generation At 10:56:33 On 14/12/2020

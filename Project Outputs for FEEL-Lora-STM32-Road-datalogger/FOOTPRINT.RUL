@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Paloma\Desktop\Nueva carpeta\FOOTPRINT.PcbDoc
+DRC Rules Export File for PCB: D:\gitRepos\FEEL-Lora-STM32-Road-datalogger\FOOTPRINT.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
